@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+
+        <title>HTML Activity</title>
+    </head>
+
+<body>
+    <h1>Pearl Jam Fan Site</h1>
+
+    <img
+        src="https://downloads-pearljam-com.s3.amazonaws.com/img/band-bandbio/14470694301554d77b99aa1e084590d0a0eadd77e9.jpg"
+        alt="Band Picture"
+    />
+
+    <h2>About</h2>
+
+    <p>
+        Pearl Jam is a rock band from Seattle
+    </p>
+
+    <h2><strong>Members</strong></h2>
+
+    <ul>
+        <li>Eddie Veddder</li>
+        <li>Mike McCready</li>
+        <li>Stone Gossard</li>
+        <li>Jeff Ament</li>
+        <li>Matt Cameron</li>
+    </ul>
+    
+</body>
